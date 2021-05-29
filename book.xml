@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding ='UTF-8' ?>
+<bookstore>
+    <books category="technical">
+        <book_no>1</book_no>
+        <book_name>Scrach 2.0 programming</book_name>
+        <author_name>Denis golikov</author_name>
+        <price>150</price>
+        <year>2001</year>
+    </books>
+    <books category="Cooking">
+        <book_no>2</book_no>
+        <book_name>Testing India</book_name>
+        <author_name>Chef Christine manfield</author_name>
+        <price>400</price>
+        <year>2007</year>
+    </books>
+    <books category="YOGA">
+        <book_no>3</book_no>
+        <book_name>Patanjali</book_name>
+        <author_name>Ramdev baba</author_name>
+        <price>150</price>
+        <year>2016</year>
+    </books>
+</bookstore>
